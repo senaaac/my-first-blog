@@ -1,0 +1,9 @@
+{
+  "REPO_URL":"https://github.com/senaaac/my-first-blog.git",
+  "PROJECT_NAME":"mysite",
+  "REMOTE_HOST":"somethingannoying.ga",
+  "REMOTE_USER":"django",
+  "STATIC_ROOT":"static",
+  "STATIC_URL":"static",
+  "MEDIA_ROOT":"media"
+}
